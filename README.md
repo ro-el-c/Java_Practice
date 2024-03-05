@@ -8,4 +8,4 @@
 ## Detail
 | Chapter | Class Name |
 |:----:|:---:|
-|스트림(Stream)|Stream|
+|스트림(stream.StreamMain)|stream.StreamMain|

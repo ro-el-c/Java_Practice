@@ -1,3 +1,5 @@
+package stream;
+
 class Student {
     String name;
     Long score;
