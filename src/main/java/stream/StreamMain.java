@@ -18,10 +18,10 @@ public class StreamMain {
     );
 
     public static void main(String[] args) {
-//        streamAndParallel();
-//        midAndFinal();
-//        filteringAndSlicing();
-//        flatMap();
+        streamAndParallel();
+        midAndFinal();
+        filteringAndSlicing();
+        flatMap();
         reducing();
 
     }
